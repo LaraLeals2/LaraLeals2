@@ -1,6 +1,6 @@
 ### Olá! Eu sou Lara Leal 👋
 
-- 🔭 Atualmente trabalho com desenvolvimento de soluções e APIS em c#
+- 🔭 Atualmente trabalho com desenvolvimento e manutenção de soluções com APIS em c#
 - 🌱 Busco conhecimento e bom uso para diversas linguagens e ferramentas, como sql, css, bootstrap, php, html, C++, Python e JavaScript, abrangendo tanto o frontend quanto o backend
 - 👯Me sinto à vontade em ambientes colaborativos, como esta comunidade, que incentiva o compartilhamento de conhecimento e o crescimento coletivo. 
 - 🤔 Minha abordagem combina pensamento analítico com experiência prática, o que me permite enfrentar projetos complexos e entregar soluções eficientes, sempre seguindo as melhores práticas.
